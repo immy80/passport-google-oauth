@@ -4,5 +4,5 @@ module.exports = {
   googleClientSecret: '3KQNWMfZiXjg4fgBMDTlYTVg',
   mongoURI:
     ' mongodb+srv://imran:Blackcab123@cluster0-vxmxb.mongodb.net/google-oauth?retryWrites=true&w=majority',
-  cookieKey: 'redacted',
+  cookieKey: 'mkmgktgmt',
 };
